@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.23.0
+pip~=23.2.1
+filelock~=3.16.1
+prometheus_client~=0.21.1
+prometheus-fastapi-instrumentator==5.10.0
